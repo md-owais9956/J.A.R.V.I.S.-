@@ -1,6 +1,6 @@
 # JARVIS – Just A Rather Very Intelligent System 🤖
 
-![JARVIS](https://github.com/md-owais9956/JARVIS/raw/main/assets/jarvis_logo.png)
+![JARVIS](C:\Users\mdowa_t185pyb\OneDrive\jarvis_ai\assets\image.png)
 
 JARVIS is a Python-based AI personal assistant inspired by Tony Stark's JARVIS from Marvel. It can perform tasks like voice recognition, AI chat, web browsing, music playback, and more — all through simple voice commands.
 
