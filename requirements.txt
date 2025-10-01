@@ -1,0 +1,11 @@
+speechrecognition
+sounddevice
+numpy
+scipy
+resampy
+resemblyzer
+pyttsx3         # For text-to-speech
+SpeechRecognition
+pyaudio         # For microphone input
+openai-whisper  # Optional: For advanced speech-to-text
+keyboard        # For listening to hotkeys
