@@ -6,19 +6,7 @@ JARVIS is a Python-based AI personal assistant inspired by Tony Stark's JARVIS f
 
 ---
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Commands & Capabilities](#commands--capabilities)
-- [Project Structure](#project-structure)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
----
 
 ## Features
 
